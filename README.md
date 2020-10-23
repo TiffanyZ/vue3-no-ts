@@ -37,4 +37,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### list（审批通过信息）
 信息池中审批通过进入list，新增管理员功能（撤回）
 
+## 相关链接
+vue官方文档：<https://v3.cn.vuejs.org/guide/introduction.html>
+ant design vue: <https://2x.antdv.com/components/table-cn/>
+富文本wangEditor：<http://www.wangeditor.com/index.html>
 
