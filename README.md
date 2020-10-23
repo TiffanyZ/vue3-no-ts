@@ -1,4 +1,5 @@
 # vue3-no-ts
+## vue 3.0.0-beta + ant-design-vue 2.0.0-beta
 
 ## Project setup
 ```
